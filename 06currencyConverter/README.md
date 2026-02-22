@@ -2,7 +2,7 @@
 
 <p>
 A real-time Currency converter built using React.  
-This project converts an entered amount from one currency to another using live exchange rates fetched from an external API.
+This project converts an entered amount from one Currency to another using live exchange rates fetched from an external API.
 </p>
 
 <hr/>
