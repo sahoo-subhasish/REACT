@@ -1,16 +1,31 @@
-# React + Vite
+<h1>React Router Practice — Lecture 07</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+This project is part of my React learning series where I implemented client-side routing using React Router.
+The goal was to understand navigation without page reload and how React handles multiple pages inside a single application.
+</p>
 
-Currently, two official plugins are available:
+<hr/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Concepts Practiced</h2>
 
-## React Compiler
+<ul>
+<li>React Router setup</li>
+<li>BrowserRouter configuration</li>
+<li>Routes and Route components</li>
+<li>Nested routing</li>
+<li>Dynamic navigation between pages</li>
+<li>Link and NavLink usage</li>
+<li>Layout based routing</li>
+</ul>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<hr/>
 
-## Expanding the ESLint configuration
+<h2>What This Project Demonstrates</h2>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<ul>
+<li>SPA (Single Page Application) behavior</li>
+<li>Navigation without refresh</li>
+<li>Page switching using URL path</li>
+<li>Component rendering based on route</li>
+</ul>
